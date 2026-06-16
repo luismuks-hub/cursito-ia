@@ -1,0 +1,66 @@
+# FICHA DE CONTRATO
+
+---
+
+**Partes:**
+- **Cliente:** Farmacia Universal SAC (RUC 20512345678)
+- **Proveedor:** TechSoft Peru SAC (RUC 20698765432)
+
+---
+
+**Objeto:**
+Mantenimiento, soporte, actualizaciones y corrección de errores del sistema de gestión LOLFAR durante 12 meses.
+
+---
+
+**Vigencia:**
+- Inicio: 1 de enero 2026 | Fin: 31 de diciembre 2026
+- ⚠️ **Renovación automática** por períodos iguales (12 meses) salvo aviso contrario con **30 días de anticipación**
+
+---
+
+**Monto:**
+- S/. 4,500 + IGV mensual **(S/. 5,310 con IGV)** → **S/. 63,720 anuales con IGV**
+- Pago dentro de los primeros 10 días de cada mes
+- Mora: **1.5% mensual** sobre montos vencidos
+
+---
+
+**Penalidades:**
+
+| Supuesto | Consecuencia |
+|---|---|
+| Caída del sistema entre 4 y 8 horas en horario laboral | Descuento del 20% en la factura del mes |
+| Caída del sistema mayor a 8 horas en horario laboral | Descuento del 40% en la factura del mes |
+| Resolución del contrato por el cliente sin causa justificada | Pago de 2 meses adicionales (≈ S/. 10,620 con IGV) |
+
+---
+
+**Riesgos clave:**
+
+> 🔴 **Riesgo 1 — Renovación automática silenciosa**
+> Si el equipo no agenda el aviso de no renovación con anticipación suficiente, el contrato se extiende automáticamente 12 meses más, generando una obligación de S/. 63,720. Se recomienda agendar alerta interna con **90 días de anticipación** al vencimiento.
+
+> 🔴 **Riesgo 2 — Soporte limitado a horario laboral**
+> El contrato no define soporte fuera de horario laboral ni fines de semana. Para una farmacia que puede operar en horario extendido, una caída nocturna o en fin de semana **no generaría penalidad ni obligación de atención** por parte del proveedor.
+
+> 🟡 **Riesgo 3 — Penalidades por caída insuficientes**
+> El descuento máximo es del 40% de la factura mensual (≈ S/. 2,124). Una caída prolongada del sistema en una farmacia puede generar pérdidas operativas muy superiores a ese monto, sin posibilidad de reclamar daños adicionales según el contrato.
+
+---
+
+**Cláusulas favorables para el cliente:**
+
+✅ Penalidades automáticas por caídas del sistema sin necesidad de reclamo formal
+✅ Confidencialidad extendida 3 años post-contrato, protegiendo datos sensibles del negocio
+✅ Posibilidad de resolver el contrato con 60 días de aviso (flexibilidad de salida)
+✅ Precio fijo mensual sin cláusula de reajuste por inflación o tipo de cambio
+
+---
+
+**Cláusulas desfavorables para el cliente:**
+
+❌ **Penalidad de salida asimétrica:** Solo el cliente paga penalidad por resolución sin causa; el proveedor puede retirarse sin costo equivalente
+❌ **Interés de mora alto:** 1.5% mensual equivale al **19.56% anual**, superior al costo financiero habitual del mercado
+❌ **Soporte restringido a horario laboral:** No se especifica qué se entiende por "horario laboral" ni se cubre atención de emergencias fuera de ese horario
+❌ **Sin SLA detallado:** No se def

@@ -1,0 +1,79 @@
+[
+  {
+    "cliente": "Clínica Miraflores",
+    "direccion": "Jr. Las Flores 234, Miraflores",
+    "contacto": {
+      "nombre": "Dr. Ramirez",
+      "telefono": "987654321"
+    },
+    "ruc": null,
+    "fecha_entrega": "2024-06-14",
+    "forma_pago": null,
+    "productos": [
+      {
+        "nombre": "Metformina 850mg",
+        "cantidad": 200,
+        "unidad": "cajas"
+      },
+      {
+        "nombre": "Enalapril 10mg",
+        "cantidad": 50,
+        "unidad": "frascos"
+      },
+      {
+        "nombre": "Atorvastatina 20mg",
+        "cantidad": 30,
+        "unidad": "cajas"
+      }
+    ],
+    "urgente": true
+  },
+  {
+    "cliente": "Botica San José",
+    "direccion": "Av. Arequipa 1500",
+    "contacto": {
+      "nombre": "Carmen",
+      "telefono": "01-4567890"
+    },
+    "ruc": null,
+    "fecha_entrega": null,
+    "forma_pago": "contra entrega",
+    "productos": [
+      {
+        "nombre": "Amoxicilina 500mg",
+        "cantidad": 100,
+        "unidad": "unidades"
+      },
+      {
+        "nombre": "Ibuprofeno 400mg",
+        "cantidad": 80,
+        "unidad": "unidades"
+      }
+    ],
+    "urgente": false
+  },
+  {
+    "cliente": "Farmacia Los Andes",
+    "direccion": "Jr. Real 456, Huancayo",
+    "contacto": {
+      "nombre": "Sr. Mendoza",
+      "telefono": "064-234567"
+    },
+    "ruc": "20456789012",
+    "fecha_entrega": null,
+    "forma_pago": "transferencia previa",
+    "productos": [
+      {
+        "nombre": "Metformina 500mg",
+        "cantidad": 150,
+        "unidad": "cajas"
+      },
+      {
+        "nombre": "Losartan 50mg",
+        "cantidad": 200,
+        "unidad": "cajas"
+      }
+    ],
+    "urgente": true
+  }
+]
